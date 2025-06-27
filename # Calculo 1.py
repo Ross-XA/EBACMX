@@ -1,8 +1,10 @@
 # Test Python
 # We are dividing by 5
+# New variable E
 a = 10
 b = 30
-c = a + b / 5
+e = 1.1
+c = a + b / 5 * e
 print(c)
 
 d = c * 2
