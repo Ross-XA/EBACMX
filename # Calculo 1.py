@@ -7,3 +7,7 @@ print(c)
 
 d = c * 2
 print(d)
+
+# Change factor 200
+d = c * 200
+print(d)
